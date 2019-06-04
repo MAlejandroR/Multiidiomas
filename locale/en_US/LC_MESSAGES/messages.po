@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-19 19:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:26
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:26
+msgid "Selecciona idioma"
+msgstr "Select language"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:27
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:27
+msgid "Francés"
+msgstr "French"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:28
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:28
+msgid "Inglés"
+msgstr "English"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:29
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:29
+msgid "Castellano"
+msgstr "Spain"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:30
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:30
+msgid "Establecer idioma"
+msgstr "Set Language"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:36
+msgid "Datos de acceso"
+msgstr "Access data"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:37
+msgid "Usuario"
+msgstr "User"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:38
+msgid "Password"
+msgstr "Password"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/index.php:39
+msgid "Acceder"
+msgstr "Login"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:35
+msgid "Bienvenido a este sition web "
+msgstr "Wellcome to this website"
+
+#: /home/manuel/web/manuel.infenlaces.com/public_html/distancia/practicas/practica_9_Multiidioma/sitio.php:39
+msgid "Volver"
+msgstr "Return"
+
+
+msgid "Aplicación de adaptada a idiomas"
+msgstr "Application adapted to languages"
+
+msgid "Debes insertar usuario y password"
+msgstr "You must insert username and password"
